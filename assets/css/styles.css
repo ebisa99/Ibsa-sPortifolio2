@@ -129,6 +129,7 @@ nav ul li {
 .bio p {
   line-height: var(--line-height);
   padding: 0.3rem 0;
+  word-wrap: normal; 
 }
 /* Hero section ends */
 
@@ -146,6 +147,7 @@ nav ul li {
 .more-about p {
   line-height: var(--line-height);
   padding: 0.4rem;
+  word-wrap: normal; 
 }
 /* More about ends */
 
